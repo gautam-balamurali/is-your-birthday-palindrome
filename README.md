@@ -1,3 +1,27 @@
+# is-your-birthday-palindrome
+
+* A palindrome birthday checker that will also show the nearest palindrome date and how many days missed.
+* Enter your date of birth and click on Show button.
+* Input validations are handled accordingly.
+
+# Sample input/output
+
+![image](https://user-images.githubusercontent.com/27736288/210109243-1baa6976-ebdc-49c9-a30e-663ed80ec6a1.png)
+![image](https://user-images.githubusercontent.com/27736288/210109309-596e53bf-8d96-419b-914b-87451f19ac6e.png)
+
+# Tech Stack
+
+* React
+* Netlify
+
+# Preview
+
+[View live](https://palindrome-birthday-gautam-balamurali.netlify.app/)
+
+# License
+
+[View  license](https://github.com/gautam-balamurali/is-your-birthday-palindrome/blob/master/LICENSE.md)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
